@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Silviu25
+- 👋 Hi, I’m @THash
 <!---
-sillvestters/sillvestters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thash/thash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
